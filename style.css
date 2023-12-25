@@ -72,24 +72,6 @@ body{
 .main-img{
     position: relative;
 }
-img-captoin{
-    font-size: 50px;
-    font-weight: bold;
-    font-family: sans-serif;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    width: 200px;
-    color: rgb(243, 231, 231);
-    position: absolute;
-    top: 300px;
-    right: 0;
-    visibility: hidden;
-}
-
-.main-img:hover .img-caption{
-    visibility: visible;
-}
 
 .about h1{
     text-align: center;
